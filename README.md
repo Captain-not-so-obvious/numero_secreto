@@ -3,4 +3,4 @@ Esse projeto contém um número secreto e o usuário terá que tentar adivinhá-
 
 Foto do projeto:
 
-![fotodoprojeto](https://user-images.githubusercontent.com/91295530/158479334-3426c320-84a6-4fd6-afa9-37dccf39ecc8.jpg)
+![fotodoprojeto](https://user-images.githubusercontent.com/91295530/158479591-787b0f8e-200f-42e1-93c6-82728994b833.jpg)
