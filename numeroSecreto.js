@@ -7,7 +7,7 @@ function Chutar() {
     elementoResultado.innerHTML =
       "Parabéns! Você concluiu meu desafio! Recarregue a página pra jogar de novo!";
   } else if (chute > 10 || chute < 0) {
-    elementoResultado.innerHTML = "Ôôô cabeção, só vale número de 1 a 10!";
+    elementoResultado.innerHTML = "Só é permitido palpites de 1 a 10! Tente de novo!";
   } else if (chute > numeroSecreto) {
     elementoResultado.innerHTML =
       "Se esforce mais! O número secreto é menor que esse!";
